@@ -6,15 +6,15 @@ This repository contains interactive Power BI dashboards that visualize mobile s
 ## 📊 Dashboards
 
 ### Dashboard 1
-![Dashboard 1](https://github.com/nar-en57/Mobile-Sales-Power-BI-Dashboard/blob/main/Dashboard%201.png)
+![Dashboard 1](https://github.com/nar-en57/Mobile-Sales-Power-BI-Dashboard/blob/main/Images/Dashboard%201.png)
 **Description of Dashboard 1**: This dashboard provides an overview of total sales, average sales per transaction, and sales trends over time. Key metrics include total revenue, number of transactions, and average transaction value.
 
 ### Dashboard 2
-![Dashboard 2](https://github.com/nar-en57/Mobile-Sales-Power-BI-Dashboard/blob/main/Dashboard%202.png)
+![Dashboard 2](https://github.com/nar-en57/Mobile-Sales-Power-BI-Dashboard/blob/main/Images/Dashboard%202.png)
 **Description of Dashboard 2**: This dashboard focuses on customer behavior and demographics. It includes metrics such as customer acquisition rate, customer retention rate, and average purchase frequency.
 
 ### Dashboard 3
-![Dashboard 3](https://github.com/nar-en57/Mobile-Sales-Power-BI-Dashboard/blob/main/Dashboard%203.png)
+![Dashboard 3](https://github.com/nar-en57/Mobile-Sales-Power-BI-Dashboard/blob/main/Images/Dashboard%203.png)
 **Description of Dashboard 3**: This dashboard highlights regional sales performance. It includes metrics such as total sales by region, average sales per region, and regional sales growth. Visual maps for city sales are also included.
 
 ## How to Use
@@ -46,10 +46,7 @@ We welcome contributions to enhance these dashboards. To contribute:
 - DAX (Data Analysis Expressions)
 
 ## 📬 Contact
-For queries or collaborations, reach out via LinkedIn or email.
-
-## Contact
-For any questions or inquiries, please contact [Naren Jamdar](mailto:narenjamdar57@gmail.com).
+For queries or collaborations, reach out via Github requests.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
