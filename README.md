@@ -46,7 +46,7 @@ We welcome contributions to enhance these dashboards. To contribute:
 - DAX (Data Analysis Expressions)
 
 ## 📬 Contact
-For queries or collaborations, reach out via Github requests.
+For queries or collaborations, reach out via Github Requests.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
