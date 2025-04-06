@@ -1,4 +1,4 @@
-## 📱 Mobile Sales Dashboard
+# 📱 Mobile Sales Dashboard
 
 ## Overview
 This repository contains interactive Power BI dashboards that visualize mobile sales data with a focus on trends over time, customer behavior, and regional performance.
@@ -7,15 +7,15 @@ This repository contains interactive Power BI dashboards that visualize mobile s
 
 ### Dashboard 1
 ![Dashboard 1](https://github.com/nar-en57/Mobile-Sales-Power-BI-Dashboard/blob/main/Dashboard%201.png)
-**Description of Dashboard 1**: This dashboard provides an overview of total sales, average sales per transaction, and sales trends over time. Key metrics include total revenue, number of transactions, and average transaction value. The dashboard includes visualizations such as line charts for sales trends and bar charts for sales by product category.
+**Description of Dashboard 1**: This dashboard provides an overview of total sales, average sales per transaction, and sales trends over time. Key metrics include total revenue, number of transactions, and average sale value.
 
 ### Dashboard 2
 ![Dashboard 2](https://github.com/nar-en57/Mobile-Sales-Power-BI-Dashboard/blob/main/Dashboard%202.png)
-**Description of Dashboard 2**: This dashboard focuses on customer behavior and demographics. It includes metrics such as customer acquisition rate, customer retention rate, and average purchase frequency. Visualizations include pie charts for customer demographics and bar charts for customer acquisition channels.
+**Description of Dashboard 2**: This dashboard focuses on customer behavior and demographics. It includes metrics such as customer acquisition rate, customer retention rate, and average purchase frequency.
 
 ### Dashboard 3
 ![Dashboard 3](https://github.com/nar-en57/Mobile-Sales-Power-BI-Dashboard/blob/main/Dashboard%203.png)
-**Description of Dashboard 3**: This dashboard highlights regional sales performance. It includes metrics such as total sales by region, average sales per region, and regional sales growth. Visualizations include maps for geographic sales distribution and bar charts for regional performance comparison.
+**Description of Dashboard 3**: This dashboard highlights regional sales performance. It includes metrics such as total sales by region, average sales per region, and regional sales growth. Visualizations include maps and bar charts.
 
 ## How to Use
 1. Download the Power BI file from this repository.
