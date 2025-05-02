@@ -50,4 +50,5 @@ We welcome contributions to enhance these dashboards. To contribute:
 For any questions or feedback, please reach out to [nar-en57](https://github.com/nar-en57).
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+© 2025 Naren Jamdar. All rights reserved.
